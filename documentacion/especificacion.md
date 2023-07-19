@@ -28,6 +28,7 @@ A continuacion se presenta una tabla con las categorias:
 | dev | Representa a las actividades de desarrollo/programacion del sistema. |
 | investigacion | Representa a las actividades de investigacion de temas relacionados al sistema. |
 | ui/ux | Representa a las activiades de diseño de interfaces de usuario y experiencia de usuario. |
+| planificacion | Representa a las actividades relacionadas con la planificacion del proyecto. |
 
 Ademas de esto, una actividad puede estar en uno de los siguientes estados:
 
